@@ -11,7 +11,10 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-Installer toute les applications necessaire ( ici c'est github)
+* Installer Git
+* Installer GitHub
+* Navigateur 
+* ici c'est la version locale
 
 ```
 
