@@ -13,9 +13,9 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 ```
 * Installer Git
 * Installer GitHub
-* Navigateur 
-* ici c'est la version locale
-* Je teste la resolution de conflit à partir d'une nouvelle version de fichier
+* Installer un Navigateur web
+* ici c'est la version locale/distante
+* j'ai fusionné les deux fichiers en conflits 
 
 ```
 
